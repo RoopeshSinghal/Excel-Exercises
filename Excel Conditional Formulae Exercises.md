@@ -1,6 +1,6 @@
 # Excel Conditional Formulae Exercises
 
-This repository contains a collection of Excel exercises focused on conditional formulae. Each exercise is designed to help you practice and improve your skills in using conditional functions in Excel!
+This file contains a collection of Excel exercises focused on conditional formulae. Each exercise is designed to help you practice and improve your skills in using conditional functions in Excel!
 
 Below are the exercises along with their solutions:
 
